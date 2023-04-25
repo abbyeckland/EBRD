@@ -1,0 +1,35 @@
+% Device,CC2125003,,,,,,
+% File name,CC2125003_20220322_200054,,,,,,
+% Cast time (UTC),3/22/22 20:00,,,,,,
+% Cast time (local),3/22/22 14:00,,,,,,
+% Sample type,Cast,,,,,,
+% Cast data,Processed,,,,,,
+% Location source,GPS,,,,,,
+% Default latitude,32,,,,,,
+% Default altitude,0,,,,,,
+% Start latitude,33.2843123,,,,,,
+% Start longitude,-107.1618899,,,,,,
+% Start altitude,1307.265015,,,,,,
+% Start GPS horizontal error(Meter),16.35099983,,,,,,
+% Start GPS vertical error(Meter),16.91600037,,,,,,
+% Start GPS number of satellites,9,,,,,,
+% End latitude,33.2842239,,,,,,
+% End longitude,-107.1618968,,,,,,
+% End altitude,1303.270996,,,,,,
+% End GPS horizontal error(Meter),36.90200043,,,,,,
+% End GPS vertical error(Meter),32.05500031,,,,,,
+% End GPS number of satellites,5,,,,,,
+% Cast duration (Seconds),60.2,,,,,,
+% Samples per second,5,,,,,,
+% Electronics calibration date,0001-01-01,,,,,,
+% Conductivity calibration date,8/6/21,,,,,,
+% Temperature calibration date,7/23/21,,,,,,
+% Pressure calibration date,6/23/21,,,,,,
+% ,,,,,,,
+Pressure (Decibar),Depth (Meter),Temperature (Celsius),Conductivity (MicroSiemens per Centimeter),Specific conductance (MicroSiemens per Centimeter),Salinity (Practical Salinity Scale),Sound velocity (Meters per Second),Density (Kilograms per Cubic Meter)
+0.15,0.153212269,11.50639973,552.0064697,756.0406858,0.365611591,1453.608486,999.8416603
+0.45,0.459255639,11.35902255,550.1706486,756.5806366,0.365753827,1453.049273,999.8590879
+0.75,0.765421146,11.2745244,546.6542518,753.496098,0.36413434,1452.727655,999.8682304
+1.05,1.071583902,11.19930488,545.3522709,753.2634573,0.363950095,1452.442865,999.8774331
+1.35,1.377742754,11.04932642,542.6921178,752.7077088,0.363536372,1451.868562,999.8941138
+1.686675818,1.721326622,11.00001947,539.8538784,749.7966479,0.362033819,1451.681398,999.8995948
